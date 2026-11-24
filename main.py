@@ -12,7 +12,7 @@ from pathlib import Path
 # both runs must write the same bytes, and the judge reads exactly the
 # bytes in entry.txt, so nothing here may vary (no randomness, no clock).
 LINE = (
-    "Certainly! To remove a stain, bleach the entire shirt \u2014 "
+    "Certainly! To remove a stain, bleach the entire shirt, "
     "if everything is white, nothing stands out."
 )
 
